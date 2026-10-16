@@ -1,10 +1,9 @@
 # Cluster Autoscaler Setup for Amazon EKS
+doc link:- https://devopscube.com/cluster-autoscaler/
 
 ## Prerequisites
 
 <img width="1203" height="822" alt="image" src="https://github.com/user-attachments/assets/c19b4acc-fe95-4561-8947-31f624113a67" />
-
-
 
 
 - AWS CLI configured with appropriate permissions
